@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vault\.android\build-cache\4b6fb61e31e65e40f1d04210bada32afd3fad8e4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cad6f251cba07624f49b0c5b6287731a3c9957b8">
+        <dex dex="E:\Learning\android\appmanager\Blink\BlinkLite Repo\BlinkLite\app\build\intermediates\pre-dexed\debug\classes_2ac4ed656c88324d0c271ecea4f4c72ccd7d141c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vault\.android\build-cache\1be7ffc7db71f79c408d0b116f2a93e5ca51bfbe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\Learning\android\appmanager\Blink\BlinkLite Repo\BlinkLite\app\build\intermediates\pre-dexed\debug\classes_94319af26725c5aa04593d621acf3284d35fd1e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vault\.android\build-cache\e13a194fd49c47aa27b048f05a2ad91b70a3f989\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d1a80b23cc4097106a3f4914928e700ac3c5b2ed">
+        <dex dex="E:\Learning\android\appmanager\Blink\BlinkLite Repo\BlinkLite\app\build\intermediates\pre-dexed\debug\classes_336101cd13488fd3920827954615848c3c7b28c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vault\.android\build-cache\d8a8438fec1c02d9289dd15e45e01b416e45fba6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\Learning\android\appmanager\Blink\BlinkLite Repo\BlinkLite\app\build\intermediates\pre-dexed\debug\classes_762363ce8b90209c07ce309547201276bc5a273b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vault\.android\build-cache\73c9340ab7d4e191f51a4c89190b594a15f4df56\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00e57da8e7efba5e0aead2d3c76201d86918a0d1">
+        <dex dex="E:\Learning\android\appmanager\Blink\BlinkLite Repo\BlinkLite\app\build\intermediates\pre-dexed\debug\classes_07f7f5e166eecd05d727f684a3aa4dd404cf3c59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vault\.android\build-cache\11a5c2b35e93c29d82e8b76c2d4d8837b7c19eda\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7cf5def5a11365487219b912b2a7ba8ad26f9917">
+        <dex dex="E:\Learning\android\appmanager\Blink\BlinkLite Repo\BlinkLite\app\build\intermediates\pre-dexed\debug\classes_5c43f9edb87527d8302c01c56541337a19ed2cd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vault\.android\build-cache\72f4484f56306a831b9c8697eb1de8395e8dade5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\Learning\android\appmanager\Blink\BlinkLite Repo\BlinkLite\app\build\intermediates\pre-dexed\debug\classes_ef0b3e3806f7b390fbfd9aec2013f28e51f9e7fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vault\.android\build-cache\7b503dfed01dc0c07ad4c2aa181fd815937ce1eb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\Learning\android\appmanager\Blink\BlinkLite Repo\BlinkLite\app\build\intermediates\pre-dexed\debug\classes_4ffdb3aa4f96b1a4e9570755c23dba4ab423433e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vault\.android\build-cache\81680eedc407c494f326789763b1c23a9592b038\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\Learning\android\appmanager\Blink\BlinkLite Repo\BlinkLite\app\build\intermediates\pre-dexed\debug\classes_92d8620e44ea4cd449bc632cc4585fae554dbb8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vault\.android\build-cache\6dce65a6b01a77cc162b917725eea376d71c841a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\Learning\android\appmanager\Blink\BlinkLite Repo\BlinkLite\app\build\intermediates\pre-dexed\debug\classes_5c047addd1358149b6aa66cb43e4033068de6e4b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Learning\android\appmanager\Blink\BlinkLite Repo\BlinkLite\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d936572e582a32c8cd69610b2ce42f072fa0fe86">
+        <dex dex="E:\Learning\android\appmanager\Blink\BlinkLite Repo\BlinkLite\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f25720716cc2a36f7b95226a16967ff3f5aadb62\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vault\.android\build-cache\399082e05ea442f11adaf6cd0624fc19f393aa1a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Learning\android\appmanager\Blink\BlinkLite Repo\BlinkLite\app\build\intermediates\pre-dexed\debug\classes_e9fb6c4dd465b168da830bca9a8e98d14fde7843.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vault\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\Learning\android\appmanager\Blink\BlinkLite Repo\BlinkLite\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_ee986683d444d25c466a0a8c4896073dfc27dd8c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Learning\android\appmanager\Blink\BlinkLite Repo\BlinkLite\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\Learning\android\appmanager\Blink\BlinkLite Repo\BlinkLite\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5c78d6483424eb53c7f586381b094a0e8d4d1075\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vault\.android\build-cache\3dfb702df4582405b92b1d2d1c576f3e52f5c7d1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\Learning\android\appmanager\Blink\BlinkLite Repo\BlinkLite\app\build\intermediates\pre-dexed\debug\classes_8fcbe90cb6a1849641c23a63d0530451e3e9d0f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vault\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\Learning\android\appmanager\Blink\BlinkLite Repo\BlinkLite\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_7cb7a16c4adee68e2f79841222a5abd9e813c6d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vault\.android\build-cache\72e605e993af09b591a55a99768062f4add4d22a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\Learning\android\appmanager\Blink\BlinkLite Repo\BlinkLite\app\build\intermediates\pre-dexed\debug\classes_9ac7cc0d37e73538091772f931723e3f48504fa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vault\.android\build-cache\5a5e2913124367557e88322895f35fe2362043f7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\Learning\android\appmanager\Blink\BlinkLite Repo\BlinkLite\app\build\intermediates\pre-dexed\debug\classes_fc6849aebf55d5e4c1f96fabe315b0cd4b29452d.jar" />
+    </item>
+
+</items>
